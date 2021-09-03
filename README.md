@@ -4,5 +4,6 @@
 Até agora o trabalho não foi iniciado
 
 Integrantes:
-  Marco Barreto
-  Pedro Wilker
+  Marco Barreto,
+  Pedro Wilker,
+  Arthur Bispo
