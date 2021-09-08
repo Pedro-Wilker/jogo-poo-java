@@ -3,7 +3,4 @@
 ### Utilizamos a biblioteca FJalp2 para criar o jogo no terminal
 
 
-Integrantes:
-  Marco Barreto,
-  Pedro Wilker,
-  Arthur Bispo
+Integrantes: Marco Barreto, Pedro Wilker, Arthur Bispo
