@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Fjalp2/dist/Fjalp2.jar"
+    ]
+}

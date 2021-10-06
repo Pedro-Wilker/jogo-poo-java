@@ -19,7 +19,9 @@ public class Exemplo1 {
         Fjalp2.getTerminal().caixa(8, 28, 21, 4);
         
         Fjalp2.getTerminal().setPosicaoCursor(10, 30);
-        Fjalp2.getTerminal().escreva("BEM VINDO AO FJALP2");
+        Fjalp2.getTerminal().escreva("   DISH DASHERS\n");
+        Fjalp2.getTerminal().setPosicaoCursor(11, 30);
+        Fjalp2.getTerminal().escreva("Digite 1 para jogar");
         
         Fjalp2.getTerminal().leiaTecla();
         
